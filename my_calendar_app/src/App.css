@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.monthbox {
+  width: 700px;
+  height: 500px;
+  border: 1px solid black;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 auto;
+}
+
+.daycell {
+  width: 100px;
+  height: 100px;
+  box-sizing: border-box;
+  border: 1px solid black;
+}
